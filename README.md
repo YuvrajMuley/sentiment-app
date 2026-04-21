@@ -3,7 +3,7 @@
 A web app that classifies text sentiment using DistilBERT and Streamlit.
 
 ## Live demo
-[Click here](https://yuvrajmuley-sentiment-app-xxxx.streamlit.app)
+[Click here] https://sentiment-app-g2nk7wxmf58g2t3xky3exp.streamlit.app/
 
 ## Tech stack
 - HuggingFace Transformers (DistilBERT)
